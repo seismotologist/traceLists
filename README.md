@@ -13,5 +13,5 @@ This repository contains a tutorial that shows how to use traceLists and
 let's you experiments with some of the main features and functions of the 
 traceList format. It's quite simple.
 
- I hope you enjoy the tutorial (\_/) For comments and questions please email
+ I hope you enjoy the tutorial (\\_/) For comments and questions please email
  mmeier@caltech.edu; last update: May 09, 2019; v1.0
